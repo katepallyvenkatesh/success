@@ -1,0 +1,6 @@
+hello world
+<<<<<<< HEAD
+may you success
+=======
+why you fail every time
+>>>>>>> 9af824a7131a5c19a4dc8a22d2e21cf045867193
